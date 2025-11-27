@@ -1,4 +1,4 @@
-# pfizer-se-team5
+# team5
 
 ## Team Members:
 
